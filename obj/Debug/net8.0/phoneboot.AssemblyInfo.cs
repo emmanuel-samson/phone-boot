@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("phoneboot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0bdb5d8135e04dca8c8c2bd7087396c15a3408e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5f207d47c449a183c50008f39131cfc93eeefb")]
 [assembly: System.Reflection.AssemblyProductAttribute("phoneboot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("phoneboot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj": {}
+    "C:\\Users\\AGBAJE OLUBUNMI\\Desktop\\Software development training\\phone-boot\\phoneboot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj": {
+    "C:\\Users\\AGBAJE OLUBUNMI\\Desktop\\Software development training\\phone-boot\\phoneboot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj",
+        "projectUniqueName": "C:\\Users\\AGBAJE OLUBUNMI\\Desktop\\Software development training\\phone-boot\\phoneboot.csproj",
         "projectName": "phoneboot",
-        "projectPath": "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj",
-        "packagesPath": "C:\\Users\\OPERAKENNY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OPERAKENNY\\phone-boot\\obj\\",
+        "projectPath": "C:\\Users\\AGBAJE OLUBUNMI\\Desktop\\Software development training\\phone-boot\\phoneboot.csproj",
+        "packagesPath": "C:\\Users\\AGBAJE OLUBUNMI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AGBAJE OLUBUNMI\\Desktop\\Software development training\\phone-boot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OPERAKENNY\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\AGBAJE OLUBUNMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
