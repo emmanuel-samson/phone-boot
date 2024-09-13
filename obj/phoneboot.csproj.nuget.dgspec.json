@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User 1\\Downloads\\phoneboot\\phoneboot.csproj": {}
+    "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User 1\\Downloads\\phoneboot\\phoneboot.csproj": {
+    "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User 1\\Downloads\\phoneboot\\phoneboot.csproj",
+        "projectUniqueName": "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj",
         "projectName": "phoneboot",
-        "projectPath": "C:\\Users\\User 1\\Downloads\\phoneboot\\phoneboot.csproj",
-        "packagesPath": "C:\\Users\\User 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User 1\\Downloads\\phoneboot\\obj\\",
+        "projectPath": "C:\\Users\\OPERAKENNY\\phone-boot\\phoneboot.csproj",
+        "packagesPath": "C:\\Users\\OPERAKENNY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OPERAKENNY\\phone-boot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User 1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\OPERAKENNY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
