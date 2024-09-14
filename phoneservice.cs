@@ -1,3 +1,5 @@
+using System.Dynamic;
+
 public class PhoneService
 {
     List<MobilePhone> phones = new List<MobilePhone>();
@@ -21,8 +23,7 @@ public class PhoneService
 
     }
 }
-
-public void ViewMobilePhone()
+Public void ViewMobilePhone()
 {
     foreach (var mobilePhone in Phones)
     {
@@ -32,7 +33,7 @@ public void ViewMobilePhone()
 
 public void SearchMobilePhone
 {
-    Console.WriteLine ("Enter the PhoneName");
+    Console.WriteLine("Enter the PhoneName");
     string phoneName = Console.ReadLine();
     Console.WriteLine ("Enter the Storage Capacity of the Phone");
     int storagecapacity = int.Parse (Console.ReadLine());
@@ -42,7 +43,7 @@ public void SearchMobilePhone
 
     foreach (var mobilePhone in Phones)
     {
-        if (mobilePhone.PhoneName == phoneName && mobilePhone.Storagecapacity == storagecapacity && mobilePhone.Colour == colour)
+        if (mobilePhone.PhoneName == PhoneName && mobilePhone.Storagecapacity == storagecapacity && mobilePhone.Colour == colour)
         {
             availablePhones.Add(mobilePhone);
         }

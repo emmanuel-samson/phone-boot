@@ -1,0 +1,10 @@
+C:\Users\OPERAKENNY\phone-boot\phone-boot\obj\Debug\net8.0\phoneboot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OPERAKENNY\phone-boot\phone-boot\obj\Debug\net8.0\phoneboot.AssemblyInfoInputs.cache
+C:\Users\OPERAKENNY\phone-boot\phone-boot\obj\Debug\net8.0\phoneboot.AssemblyInfo.cs
+C:\Users\OPERAKENNY\phone-boot\phone-boot\obj\Debug\net8.0\phoneboot.csproj.CoreCompileInputs.cache
+C:\Users\OPERAKENNY\phone-boot\phone-boot\obj\Debug\net8.0\phoneboot.sourcelink.json
+C:\Users\OPERAKENNY\Downloads\phone-boot\obj\Debug\net8.0\phoneboot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OPERAKENNY\Downloads\phone-boot\obj\Debug\net8.0\phoneboot.AssemblyInfoInputs.cache
+C:\Users\OPERAKENNY\Downloads\phone-boot\obj\Debug\net8.0\phoneboot.AssemblyInfo.cs
+C:\Users\OPERAKENNY\Downloads\phone-boot\obj\Debug\net8.0\phoneboot.csproj.CoreCompileInputs.cache
+C:\Users\OPERAKENNY\Downloads\phone-boot\obj\Debug\net8.0\phoneboot.sourcelink.json
