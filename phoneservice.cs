@@ -1,4 +1,4 @@
-public class phoneservice
+public class PhoneService
 {
     List<MobilePhone> phones = new List<MobilePhone>();
     
@@ -11,10 +11,10 @@ public class phoneservice
         Console.WriteLine("What is the Colour of the Phone");
         string colour = Console.ReadLine();
 
-         MobilePhone mobilePhone= new MobilePhone();
+         MobilePhone mobilePhone = new MobilePhone();
          mobilePhone.PhoneName = phoneName;
-         mobilePhone.Storagecapacity= storageCapacity;
-         mobilePhone.Colour= colour;
+         mobilePhone.Storagecapacity = storageCapacity;
+         mobilePhone.Colour = colour;
 
          phones.Add(mobilePhone);
          Console.WriteLine($" New Mobile Phone with Name {phoneName} {storageCapacity} {colour} sucessfully added");
@@ -59,3 +59,4 @@ public void SearchMobilePhone
         Console.WriteLine (" No Mobile Phone found");
     }
 }
+
